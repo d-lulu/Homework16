@@ -21,26 +21,16 @@
 
 ## 📁 Структура проекта
 
-
 lab-arrays/
-
-├── src/
-
-│   ├── arrays.h
-
-│   ├── arrays.c
-
-│   └── main.c
-
-├── tests/
-
-│   ├── test_arrays.c
-
-│   └── run_tests.sh
-
-├── Makefile
-
-└── README.md
+├── .gitattributes
+├── .gitignore
+├── README.md
+├── arrays.c
+├── arrays.h
+├── lab-arrays.sln
+├── lab-arrays.vcxproj
+├── lab-arrays.vcxproj.filters
+└── main.c
 
 
 ## 🔧 Реализованные функции
